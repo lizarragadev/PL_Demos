@@ -1,3 +1,5 @@
 ### Prueba ejemplo.
 
-verbo(drogas, DelVerbo, Categoria, Tipo, Modo, Tiempo, Persona, Num, Genero).
+Sintaxis: verbo([ingrese verbo], DelVerbo, Categoria, Tipo, Modo, Tiempo, Persona, Num, Genero).
+
+Ejemplo: verbo(drogas, DelVerbo, Categoria, Tipo, Modo, Tiempo, Persona, Num, Genero).
